@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using AtCoderFollowees.Models.Data;
+using AtCoderFollowees.Core.Models;
 using Microsoft.Extensions.Logging;
 
 namespace AtCoderFollowees.Core.Services

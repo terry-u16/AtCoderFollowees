@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace AtCoderFollowees.Models.Data
+namespace AtCoderFollowees.Core.Models
 {
     public class TopCoderUserResponse
     {

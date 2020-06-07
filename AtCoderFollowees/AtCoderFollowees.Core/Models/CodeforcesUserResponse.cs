@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AtCoderFollowees.Models.Data
+namespace AtCoderFollowees.Core.Models
 {
     public class CodeforcesUserResponse
     {
